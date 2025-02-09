@@ -1,0 +1,14 @@
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/bin/Debug/net8.0/CapitalUsageValidator
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/bin/Debug/net8.0/CapitalUsageValidator.deps.json
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/bin/Debug/net8.0/CapitalUsageValidator.runtimeconfig.json
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/bin/Debug/net8.0/CapitalUsageValidator.dll
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/bin/Debug/net8.0/CapitalUsageValidator.pdb
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.GeneratedMSBuildEditorConfig.editorconfig
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.AssemblyInfoInputs.cache
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.AssemblyInfo.cs
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.csproj.CoreCompileInputs.cache
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.dll
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/refint/CapitalUsageValidator.dll
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.pdb
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/CapitalUsageValidator.genruntimeconfig.cache
+/home/broonoh/Workspace/TesteEasy/CapitalUsageValidator/CapitalUsageValidator/obj/Debug/net8.0/ref/CapitalUsageValidator.dll
